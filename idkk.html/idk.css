@@ -1,0 +1,149 @@
+#image {
+    width: 400px;
+    border: 4px solid rgb(185, 67, 87);
+    border-radius: 50%;
+    box-shadow: 0px 0px 15px white;
+    margin-bottom: 20px;
+}
+#chess-image {
+    width: 1000px;
+    margin-top: 20px;
+    display: flex;
+    margin: 20 auto;
+
+
+}
+.years-old {
+    display: flex;
+    
+    margin-top: 1000px;  
+}
+.date {
+    margin-top: 10000px;
+    
+}
+.top-part {
+    margin-bottom: 0px;
+}
+body{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Shadows Into Light', cursive;
+    background-color: rgb(150, 194, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(rgb(150, 194, 255), rgb(255, 135, 135));
+    
+}
+h1, #years-old, #date {
+    text-shadow: 0px 0px 5px black;
+}
+#years-old, #date {
+    background: rgb(211, 98, 98);
+    padding: 10px;
+    border-radius: 40px;
+    width: 200px;
+    margin: 15px auto;
+    margin-top: 15px;
+    margin-bottom: 0;
+    
+    
+}
+#date {
+    width: 150px;
+    
+}
+.gift-section {
+    text-shadow: 0px 0px 5px black;
+    
+}
+.gift-img {
+    width: 600px;
+}
+.gift-title {
+    margin-top: 40px;
+}
+
+.gift-imgg {
+    margin: 40px auto;
+    width: 600px;
+    height: 600px;
+    background-image: url(gifttttttt.jpg);
+    background-size: cover;
+}
+#gift-imgg-happy:hover {
+    background-image: url("giphy.gif");
+     
+}
+#gift-imgg-inlove:hover {
+    background-image: url("giphy\ \(3\).gif");
+    
+}
+
+#gift-imgg-genius:hover {
+    background-image: url("giphy\ \(4\).gif");
+    
+}
+
+#gift-imgg-chuck:hover {
+    background-image: url("giphy\ \(5\).gif");
+    
+}
+
+
+
+
+
+
+    
+#gg1 {
+    
+    font-size: 50px;
+    border: 5px solid rgb(173, 73, 73);
+    border-radius: 19px;
+    background: rgb(255, 163, 179);
+    width: 500px;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 20px 40px;
+
+} 
+#gg1:hover {
+    background-image: url(middleheadoscar.png);
+    background-size: cover;
+}
+
+#gg0 {
+    
+    font-size: 50px;
+    border: 5px solid rgb(173, 73, 73);
+    border-radius: 19px;
+    background: rgb(255, 163, 179);
+    width: 500px;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 20px 40px;
+
+} 
+#gg0:hover {
+    background-image: url(topheadoscar.png);
+    background-size: cover;
+
+}
+#gg2 {
+    
+    font-size: 50px;
+    border: 5px solid rgb(173, 73, 73);
+    border-radius: 19px;
+    background: rgb(255, 163, 179);
+    width: 500px;
+    text-align: center;
+    padding: 20px 40px;
+    
+
+} 
+#gg2:hover {
+    background-image: url(bottomheadoscar.png);
+    background-size: cover;
+}
